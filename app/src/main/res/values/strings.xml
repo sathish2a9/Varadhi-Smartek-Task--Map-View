@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VaradhiSmartekTask</string>
+    <string name="STR_INSTITUTE_NAME">Institute Name: %1$s</string>
+    <string name="STR_POC_NAME">POC Name: %1$s</string>
+    <string name="STR_EMPLOYEE_ID">Employee ID: %1$s</string>
+    <string name="STR_NO_DATA">No data available.</string>
+    <string name="API_KEY">AIzaSyCFMnGTf1KgMc92wff2NyfhTU2hojKFiEY</string>
+</resources>
